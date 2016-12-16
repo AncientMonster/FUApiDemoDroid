@@ -6,7 +6,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="这个Activity只演示API的使用，无预览效果,参见代码和注释"
+        android:text="这个Activity只演示如何拿到输出的nv21数据，无预览效果,API的使用参见代码和注释"
         android:textSize="18sp"
         android:layout_margin="50dp"/>
 </LinearLayout>

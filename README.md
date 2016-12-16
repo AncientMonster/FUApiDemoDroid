@@ -7,5 +7,5 @@ Faceunity Android SDK API使用示例，详细的集成文档请参考[这里](h
 这个Activity演示了从Camera取数据,用fuDualInputToTexure处理得到绘制道具结果并使用GLSurfaceView预览展示。所谓DualInput，是指从cpu和gpu同时拿数据源，cpu拿到的是nv21的byte数组，gpu拿到的是对应的texture，具体请参考对应代码。
 ###FURendererToNV21ImageExampleActivity
 这个Activity演示了如何通过fuRenderToNV21Image，在无GL Context的情况下输入nv21的人脸图像，输出添加道具及美颜后的nv21图像。这个Activity只演示API的使用，无预览效果，FU SDK使用者可以将拿到处理后的nv21图像与自己的原有项目对接。请FU SDK使用者直接参考示例放至代码至对应位置。
-##问题反馈
-有疑问或者bug反馈，可以在项目中提issue。
+##反馈
+有疑问,bug反馈或建议，可以在项目中提issue。
