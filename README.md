@@ -1,5 +1,5 @@
 # FUApiDemoDroid
-Faceunity Android SDK API使用示例，详细的集成文档请参考[这里](https://github.com/Faceunity/FUQiniuDemoDroid/blob/master/README.md)。
+Faceunity Android SDK API使用示例，详细的集成文档以及库文件的更新请参考[这里](https://github.com/Faceunity/FUQiniuDemoDroid/blob/master/README.md)。
 ##示例介绍
 本Demo展示了独立使用FU SDK API的用法。FU SDK和任何三方无耦合，FU SDK负责范围本质上只是接收输入的图像，输出处理后的图像,如果有对接三方SDK如推流的需求，可以参考本Demo对FU SDK API的使用。FU SDK不涉及视频编码及网络，使用者可以自由选择。
 ##示例项目构成
